@@ -2,7 +2,7 @@ program core_scissor_test;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

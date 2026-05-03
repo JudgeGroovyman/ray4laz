@@ -2,7 +2,7 @@ unit FMX.Game;
 
 interface
 
-uses
+uses CocoaAll,
   Winapi.Windows, System.SysUtils, System.Classes, Math, raylib, raymath;
 
 

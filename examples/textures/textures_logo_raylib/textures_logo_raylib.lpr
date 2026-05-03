@@ -2,7 +2,7 @@ program textures_logo_raylib;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 //raymath, 

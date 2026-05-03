@@ -2,7 +2,7 @@ program shaders_model_shader;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath;
 
 const

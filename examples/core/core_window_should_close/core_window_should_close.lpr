@@ -15,7 +15,7 @@ program core_window_should_close;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

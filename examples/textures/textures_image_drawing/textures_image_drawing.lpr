@@ -2,7 +2,7 @@ program textures_image_drawing;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

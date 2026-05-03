@@ -2,7 +2,7 @@ program core_drop_files;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 raylib;
 

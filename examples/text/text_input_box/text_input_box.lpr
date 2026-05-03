@@ -2,7 +2,7 @@ program text_input_box;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

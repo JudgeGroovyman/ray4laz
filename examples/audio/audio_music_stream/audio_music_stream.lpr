@@ -17,7 +17,7 @@ program audio_music_stream;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   raylib;
 
 //------------------------------------------------------------------------------------

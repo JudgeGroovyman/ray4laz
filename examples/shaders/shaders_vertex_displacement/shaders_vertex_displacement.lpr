@@ -17,7 +17,7 @@ program shaders_vertex_displacement;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 //raymath, 

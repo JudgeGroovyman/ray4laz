@@ -2,7 +2,7 @@ program core_custom_frame_control;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

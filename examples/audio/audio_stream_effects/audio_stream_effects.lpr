@@ -18,7 +18,7 @@ program audio_stream_effects;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   raylib;
 
 //----------------------------------------------------------------------------------

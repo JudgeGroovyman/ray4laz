@@ -2,7 +2,7 @@ program shaders_texture_outline;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath;
 
 const

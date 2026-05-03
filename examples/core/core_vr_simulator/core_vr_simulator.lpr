@@ -15,7 +15,7 @@ program core_vr_simulator;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

@@ -23,7 +23,7 @@ program audio_fft_spectrum_visualizer;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math, SysUtils, Classes,
   raylib, raymath;
 

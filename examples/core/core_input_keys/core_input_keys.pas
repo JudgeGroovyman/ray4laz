@@ -2,7 +2,7 @@ program core_input_keys;
 
 {$MODE objfpc}
 
-uses cmem, raylib, math;
+uses CocoaAll, cmem, raylib, math;
 
 const
   screenWidth = 800;

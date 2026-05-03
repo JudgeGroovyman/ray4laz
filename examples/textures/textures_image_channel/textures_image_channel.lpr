@@ -19,7 +19,7 @@ program textures_image_channel;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 //raymath, 

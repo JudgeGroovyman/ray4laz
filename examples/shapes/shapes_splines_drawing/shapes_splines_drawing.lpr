@@ -16,7 +16,7 @@ program shapes_splines_drawing;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 //raymath, 

@@ -2,7 +2,7 @@ program models_animation_blending;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
     raylib, rlgl, raygui, sysutils;
 
 const

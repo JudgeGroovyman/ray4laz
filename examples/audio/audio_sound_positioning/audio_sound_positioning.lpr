@@ -20,7 +20,7 @@ program audio_sound_positioning;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math,
   raylib,
   raymath;

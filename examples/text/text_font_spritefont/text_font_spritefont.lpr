@@ -2,7 +2,7 @@ program text_font_spritefont;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

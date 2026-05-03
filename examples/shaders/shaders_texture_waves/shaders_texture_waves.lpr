@@ -2,7 +2,7 @@ program shaders_texture_waves;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath;
 
 const

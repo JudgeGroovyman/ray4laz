@@ -2,7 +2,7 @@ program shaders_mesh_instancing;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath, rlights;
 
 

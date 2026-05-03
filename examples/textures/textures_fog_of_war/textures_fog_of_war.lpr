@@ -2,7 +2,7 @@ program textures_fog_of_war;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 raylib;
 

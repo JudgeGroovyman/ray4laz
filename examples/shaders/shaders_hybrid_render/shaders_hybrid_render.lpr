@@ -17,7 +17,7 @@ program shaders_hybrid_render;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 raymath, math,

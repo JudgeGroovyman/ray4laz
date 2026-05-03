@@ -1,7 +1,7 @@
 program core_2d_camera_platformer;
 
 {$mode Delphi}{$H+}
-uses
+uses CocoaAll,
   SysUtils, Math, raylib, raymath;
 
 const

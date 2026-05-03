@@ -2,7 +2,7 @@ program core_3d_camera_free;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 raylib;
 

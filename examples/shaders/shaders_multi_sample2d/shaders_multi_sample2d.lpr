@@ -2,7 +2,7 @@ program shaders_multi_sample2d;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

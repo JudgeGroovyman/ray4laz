@@ -19,7 +19,7 @@ program core_3d_camera_fps;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math,
   raylib,
   raymath;

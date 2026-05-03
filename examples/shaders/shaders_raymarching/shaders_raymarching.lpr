@@ -16,7 +16,7 @@ program shaders_raymarching;
 
 {$mode objfpc}{$H+}
 
-uses cmem,raylib;
+uses CocoaAll, cmem,raylib;
 
 const
 

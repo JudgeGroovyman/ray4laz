@@ -2,7 +2,7 @@ program textures_sprite_button;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 //raymath, 

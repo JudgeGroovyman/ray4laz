@@ -4,7 +4,7 @@ unit CustomFileDialog;
 
 interface
 
-uses
+uses CocoaAll,
   Classes, SysUtils, raylib, raygui, FileUtil;
 
 type

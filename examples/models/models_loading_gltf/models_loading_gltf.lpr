@@ -22,7 +22,7 @@ program models_loading_gltf;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

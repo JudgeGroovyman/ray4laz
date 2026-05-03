@@ -2,7 +2,7 @@ program shapes_basic_shapes;
 
 {$MODE objfpc}
 
-uses cmem, raylib, math;
+uses CocoaAll, cmem, raylib, math;
 
 const
   screenWidth = 800;

@@ -15,7 +15,7 @@ program core_world_screen;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

@@ -2,7 +2,7 @@ program textures_textured_curve;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, rlgl,raylib, math , raymath;
 
 const

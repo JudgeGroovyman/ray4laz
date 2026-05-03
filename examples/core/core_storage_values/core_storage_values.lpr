@@ -2,7 +2,7 @@ program core_storage_values;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

@@ -2,7 +2,7 @@ program shapes_logo_raylib_anim;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

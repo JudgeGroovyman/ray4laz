@@ -2,7 +2,7 @@ program core_input_multitouch;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 raylib;
 

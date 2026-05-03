@@ -2,7 +2,7 @@ program shaders_rounded_rectangle;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   SysUtils, Math, raylib, raymath;
 
 const

@@ -19,7 +19,7 @@ program core_automation_events;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math,
   raylib,
   raymath;

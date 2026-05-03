@@ -2,7 +2,7 @@ program motion;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
  {$IFDEF LINUX}cthreads, {$IFEND}
  Classes, SysUtils, CustApp, raylib, raygui, math;
 

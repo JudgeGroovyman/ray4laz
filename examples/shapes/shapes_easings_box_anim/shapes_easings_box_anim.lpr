@@ -2,7 +2,7 @@ program shapes_easings_box_anim;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, reasings, math;
 
 const

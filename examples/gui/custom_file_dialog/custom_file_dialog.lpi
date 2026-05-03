@@ -50,9 +50,15 @@
       <Debugging>
         <DebugInfoType Value="dsDwarf3"/>
       </Debugging>
-    </Linking>
-  </CompilerOptions>
-  <Debugging>
+     <Options>
+        <PassLinkerOptions Value="True"/>
+        <LinkerOptions Value="-framework IOKit"/>
+      </Options>
+    </Linking>
+    <Other>
+      <CustomOptions Value="-WM11.0"/>
+    </Other>
+  </CompilerOptions>  <Debugging>
     <Exceptions>
       <Item>
         <Name Value="EAbort"/>

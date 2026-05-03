@@ -2,7 +2,7 @@ program core_3d_camera_split_screen;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   raylib;
 
 //------------------------------------------------------------------------------------

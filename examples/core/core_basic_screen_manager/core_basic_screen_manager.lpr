@@ -2,7 +2,7 @@ program core_basic_screen_manager;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem,
 raylib;
 

@@ -16,7 +16,7 @@
 program audio_sound_loadig;
 
 {$mode objfpc}{$H+}
-uses
+uses CocoaAll,
 cmem, 
 raylib;
 

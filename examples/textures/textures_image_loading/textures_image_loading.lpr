@@ -2,7 +2,7 @@ program textures_image_loading;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

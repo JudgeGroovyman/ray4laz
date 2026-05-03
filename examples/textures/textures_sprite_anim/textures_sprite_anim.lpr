@@ -2,7 +2,7 @@ program textures_sprite_anim;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 raylib;
 

@@ -2,7 +2,7 @@ program models_draw_cube_texture;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, rlgl,raylib;
 
 const

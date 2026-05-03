@@ -2,7 +2,7 @@ program models_mesh_picking;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath;
 
 const

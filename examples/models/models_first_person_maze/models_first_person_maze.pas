@@ -2,7 +2,7 @@ program models_first_person_maze;
 
 {$MODE objfpc}{$H+}
 
-uses cmem, raylib, raymath, math;
+uses CocoaAll, cmem, raylib, raymath, math;
 
 const
   screenWidth = 800;

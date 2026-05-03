@@ -2,7 +2,7 @@ program shapes_bouncing_ball;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

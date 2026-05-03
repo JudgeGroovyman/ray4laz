@@ -1,6 +1,6 @@
 program ModelAnimationBlending;
 
-uses
+uses CocoaAll,
   Raylib;
 
 const

@@ -15,7 +15,7 @@ program shaders_shadowmap;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 raymath,

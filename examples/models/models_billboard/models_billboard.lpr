@@ -16,7 +16,7 @@ program models_billboard;
 
 {$mode objfpc}{$H+}
 {$define Adv_Record}
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath;
 
 const

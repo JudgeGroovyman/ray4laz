@@ -22,7 +22,7 @@ program core_input_gamepad;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

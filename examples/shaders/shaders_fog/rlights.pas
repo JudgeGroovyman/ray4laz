@@ -36,7 +36,7 @@ unit rlights;
 
 interface
 
-uses
+uses CocoaAll,
   raylib, sysutils;
 
 const

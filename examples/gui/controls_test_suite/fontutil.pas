@@ -4,7 +4,7 @@ unit fontUtil;
 
 interface
 
-uses
+uses CocoaAll,
   raylib, SysUtils;
 
 function LoadUnicodeFont(FileName: String; FontSize: Integer;

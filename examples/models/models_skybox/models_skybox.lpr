@@ -15,7 +15,7 @@ program models_skybox;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath, rlgl;
 
 const

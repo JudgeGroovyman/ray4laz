@@ -2,7 +2,7 @@ program custom_file_dialog;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Classes, SysUtils, raylib, raygui, CustomFileDialog;
 
 const

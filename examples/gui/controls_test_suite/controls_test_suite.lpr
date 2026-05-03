@@ -38,7 +38,7 @@ program controls_test_suite;
 
 {$mode objfpc}{$H+}
 
-uses cmem, raygui, raylib, fontutil;
+uses CocoaAll, cmem, raygui, raylib, fontutil;
 
 const
   screenWidth = 960;

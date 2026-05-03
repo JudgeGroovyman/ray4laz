@@ -2,7 +2,7 @@ program getting_started;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath, raygizmo;
 
 const

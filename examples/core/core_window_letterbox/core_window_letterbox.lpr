@@ -1,7 +1,7 @@
 program core_window_letterbox;
 
 {$mode objfpc}{$H+}
-uses
+uses CocoaAll,
 cmem, raylib, raymath, math;
 
 const

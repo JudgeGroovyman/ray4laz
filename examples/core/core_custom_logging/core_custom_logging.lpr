@@ -2,7 +2,7 @@ program core_custom_logging;
 
 {$mode Delphi}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, SysUtils, Classes;
 
 const

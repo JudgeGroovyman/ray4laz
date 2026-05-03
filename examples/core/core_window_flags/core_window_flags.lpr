@@ -14,7 +14,7 @@ program core_window_flags;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 {uncomment if necessary}
 //raymath,
 //rlgl,

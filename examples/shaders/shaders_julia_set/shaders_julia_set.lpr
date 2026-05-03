@@ -2,7 +2,7 @@ program shaders_julia_set;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath, math;
 
 const

@@ -19,7 +19,7 @@ program shaders_deferred_render;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, rlgl, rlights, raymath, math;
 
 const

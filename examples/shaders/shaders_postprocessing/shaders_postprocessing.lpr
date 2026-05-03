@@ -22,7 +22,7 @@ program shaders_postprocessing;
 
 
 
-uses 
+uses CocoaAll, 
 {uncomment if necessary}
 //raymath,
 //rlgl,

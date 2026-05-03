@@ -2,7 +2,7 @@ program models_geometric_shapes;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

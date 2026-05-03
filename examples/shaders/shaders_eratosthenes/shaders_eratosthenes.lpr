@@ -29,7 +29,7 @@ program shaders_eratosthenes;
 
 {$mode objfpc}{$H+}
 
-uses raylib;
+uses CocoaAll, raylib;
 
 const
   screenWidth = 800;

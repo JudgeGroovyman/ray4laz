@@ -2,7 +2,7 @@ program textures_sprite_explosion;
 
 {$mode objfpc}{$H+}
 
-uses cmem, raylib, math;
+uses CocoaAll, cmem, raylib, math;
 
 const
 screenWidth = 800;

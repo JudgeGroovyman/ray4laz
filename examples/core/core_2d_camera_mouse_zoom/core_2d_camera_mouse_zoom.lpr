@@ -19,7 +19,7 @@ program core_2d_camera_mouse_zoom;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math,
   raylib,
   rlgl,

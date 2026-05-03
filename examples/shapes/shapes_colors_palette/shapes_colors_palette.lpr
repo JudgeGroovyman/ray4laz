@@ -2,7 +2,7 @@ program shapes_colors_palette;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, Math;
 
 const

@@ -2,7 +2,7 @@ program text_writing_anim;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

@@ -2,7 +2,7 @@ program shaders_write_depth;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, rlgl, raylib;
 
 const

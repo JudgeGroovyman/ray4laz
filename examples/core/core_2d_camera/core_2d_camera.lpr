@@ -17,7 +17,7 @@ program core_2d_camera;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math,
   raylib;
 

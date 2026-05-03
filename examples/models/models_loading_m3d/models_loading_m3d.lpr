@@ -2,7 +2,7 @@ program models_loading_m3d;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, rlgl,
 raylib, raymath, sysutils;
 

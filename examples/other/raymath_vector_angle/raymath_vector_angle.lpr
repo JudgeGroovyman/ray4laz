@@ -17,7 +17,7 @@ program raymath_vector_angle;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 raymath,

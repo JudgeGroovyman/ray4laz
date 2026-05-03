@@ -2,7 +2,7 @@ program shaders_palette_switch;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath;
 
 const

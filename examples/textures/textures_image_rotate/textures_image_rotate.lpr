@@ -15,7 +15,7 @@ program textures_image_rotate;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

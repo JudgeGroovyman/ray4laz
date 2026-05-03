@@ -2,7 +2,7 @@ program shapes_easings_rectangle_array;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 Math,
 raylib,

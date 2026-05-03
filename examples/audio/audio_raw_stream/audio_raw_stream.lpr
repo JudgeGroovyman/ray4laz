@@ -19,7 +19,7 @@ program audio_raw_stream;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math, SysUtils,
   raylib;
 

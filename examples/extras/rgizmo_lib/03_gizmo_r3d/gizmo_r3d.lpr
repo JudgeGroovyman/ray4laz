@@ -2,7 +2,7 @@ program gizmo_r3d;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath, raygizmo, r3d, rlgl;
 
 const

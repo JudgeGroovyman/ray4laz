@@ -19,7 +19,7 @@ program text_unicode_ranges;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Classes, SysUtils, Math, raylib;
 
 //--------------------------------------------------------------------------------------

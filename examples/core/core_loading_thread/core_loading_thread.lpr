@@ -2,7 +2,7 @@ program core_loading_thread;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
   {$IFDEF UNIX}
    cthreads,
    cmem,

@@ -2,7 +2,7 @@ program text_raylib_fonts;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

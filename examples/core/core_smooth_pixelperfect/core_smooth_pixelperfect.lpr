@@ -16,7 +16,7 @@ program core_smooth_pixelperfect;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 {uncomment if necessary}
 raymath,
 //rlgl,

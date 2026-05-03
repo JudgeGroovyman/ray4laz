@@ -2,7 +2,7 @@ program core_3d_picking;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem,
 raylib; 
 

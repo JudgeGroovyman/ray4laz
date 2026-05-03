@@ -3,7 +3,7 @@ program core_clipboard_text;
 {$mode objfpc}{$H+}
 {$DEFINE RAYGUI_NO_RICONS}
 {$UNDEF RAYGUI_NO_RICONS}
-uses
+uses CocoaAll,
   raylib, raygui;
 
 const

@@ -2,7 +2,7 @@ program gizmo_types;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, raymath, raygizmo;
 
 const

@@ -2,7 +2,7 @@ program textures_mouse_painting;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib, rlgl;
 
 const

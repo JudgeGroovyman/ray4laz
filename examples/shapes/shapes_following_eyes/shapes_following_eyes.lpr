@@ -2,7 +2,7 @@ program shapes_following_eyes;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 math,
 raylib; 

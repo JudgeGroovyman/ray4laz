@@ -2,7 +2,7 @@ program text_rectangle_bounds;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

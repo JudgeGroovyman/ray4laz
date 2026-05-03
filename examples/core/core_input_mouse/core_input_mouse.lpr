@@ -2,7 +2,7 @@ program core_input_mouse;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

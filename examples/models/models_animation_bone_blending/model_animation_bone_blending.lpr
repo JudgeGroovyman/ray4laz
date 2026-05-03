@@ -1,6 +1,6 @@
 program ModelAnimationBoneBlending;
 
-uses
+uses CocoaAll,
   Raylib, raymath, SysUtils;
 
 const

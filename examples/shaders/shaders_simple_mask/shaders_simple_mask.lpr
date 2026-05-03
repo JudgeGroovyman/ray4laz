@@ -2,7 +2,7 @@ program shaders_simple_mask;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 {uncomment if necessary}
 raymath,

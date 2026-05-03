@@ -2,7 +2,7 @@ program models_orthographic_projection;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raylib;
 
 const

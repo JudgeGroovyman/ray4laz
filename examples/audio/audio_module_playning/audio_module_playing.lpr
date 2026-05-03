@@ -12,7 +12,7 @@ program audio_module_playing;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   raylib;
 
 const

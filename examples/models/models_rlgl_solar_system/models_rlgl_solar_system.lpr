@@ -15,7 +15,7 @@ program models_rlgl_solar_system;
 
 {$mode objfpc}{$H+}
 
-uses cmem, raylib, rlgl;
+uses CocoaAll, cmem, raylib, rlgl;
 
 const
  screenWidth = 800;

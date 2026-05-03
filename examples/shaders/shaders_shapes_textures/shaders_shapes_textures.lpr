@@ -2,7 +2,7 @@ program shaders_shapes_textures;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raymath, raylib;
 
 const

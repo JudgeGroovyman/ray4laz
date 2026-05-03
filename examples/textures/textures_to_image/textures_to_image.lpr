@@ -2,7 +2,7 @@ program textures_to_image;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, 
 raylib;
 

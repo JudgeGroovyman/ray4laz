@@ -2,7 +2,7 @@ program shapes_top_down_lights;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, Math,raymath, rlgl, raylib;
 
 const

@@ -21,7 +21,7 @@ program models_tesseract_view;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem, raymath, math, raylib;
 
 const

@@ -19,7 +19,7 @@ program audio_sound_multi;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   raylib;
 
 const

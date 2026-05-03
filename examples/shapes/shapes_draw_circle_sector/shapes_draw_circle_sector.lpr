@@ -2,7 +2,7 @@ program shapes_draw_circle_sector;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
 raylib, raygui, math;
 
 const

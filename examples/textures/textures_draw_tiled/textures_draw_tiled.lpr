@@ -2,7 +2,7 @@ program textures_draw_tiled;
 
 {$mode objfpc}{$H+}
 
-uses 
+uses CocoaAll, 
 cmem,
 raylib; 
 

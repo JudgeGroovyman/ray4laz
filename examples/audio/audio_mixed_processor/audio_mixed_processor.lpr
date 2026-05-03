@@ -19,7 +19,7 @@ program audio_mixed_processor;
 
 {$mode objfpc}{$H+}
 
-uses
+uses CocoaAll,
   Math, SysUtils,
   raylib;
 
